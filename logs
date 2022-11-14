@@ -1,0 +1,5 @@
+[Sat Nov 12 09:45:02.917926 2022] [authz_core:error] [pid 324:tid 1868] [client 127.0.0.1:49783] AH01630: client denied by server configuration: C:/Users/osuna-dev/projects/web/control-asistencia/
+[Sat Nov 12 09:45:03.563055 2022] [authz_core:error] [pid 324:tid 1868] [client 127.0.0.1:49783] AH01630: client denied by server configuration: C:/Users/osuna-dev/projects/web/control-asistencia/favicon.ico, referer: http://control-asistencia.test/
+[Sat Nov 12 09:49:10.120152 2022] [authz_core:error] [pid 4508:tid 1864] [client 127.0.0.1:49785] AH01630: client denied by server configuration: C:/Users/osuna-dev/projects/web/control-asistencia/
+[Sat Nov 12 09:49:12.844379 2022] [authz_core:error] [pid 4508:tid 1864] [client 127.0.0.1:49785] AH01630: client denied by server configuration: C:/Users/osuna-dev/projects/web/control-asistencia/
+[Sat Nov 12 09:49:26.991116 2022] [authz_core:error] [pid 4508:tid 1864] [client 127.0.0.1:49793] AH01630: client denied by server configuration: C:/Users/osuna-dev/projects/web/control-asistencia/
